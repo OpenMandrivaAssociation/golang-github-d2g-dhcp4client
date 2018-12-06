@@ -1,0 +1,9 @@
+import:
+- package: golang.org/x/sys
+  subpackages:
+  - unix
+  version: b9cf5f96b68d9eaa53d5db5fef235718767f416a
+- package: github.com/d2g/dhcp4
+  version: f0e4d29ff0231dce36e250b2ed9ff08412584bca
+package: github.com/d2g/dhcp4client
+
